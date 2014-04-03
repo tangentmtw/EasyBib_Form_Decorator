@@ -1,5 +1,5 @@
 {
-    "name":"easybib/form-decorator",
+    "name":"peterslivka/form-decorator",
     "description": "EasyBib_Form_Decorator is a set of Twitter Bootstrap decorators for Zend_Form",
     "type":"library",
     "license":"MIT",
